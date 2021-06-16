@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{290:function(t,e,n){"use strict";n.r(e);var r={components:{Project:n(220).a}},o=n(8),component=Object(o.a)(r,(function(){var t=this,e=t.$createElement;return(t._self._c||e)("Project",{attrs:{slug:t.$route.params.slug}})}),[],!1,null,null,null);e.default=component.exports}}]);
