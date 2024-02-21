@@ -1,15 +1,18 @@
 # Site settings
-title: Biscuit Theme for Jekyll
+title: Fish Percolator
 tag_text: Biscuit
-description: Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
-# baseurl: "/blog" # the subpath of your site, e.g. /blog
-# url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+description: Changing the world in small ways with technology
+url: "https://www.fishpercolator.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
-exclude: ["README.md"]
+exclude: 
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
 sass:
   style: compressed

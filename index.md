@@ -2,45 +2,27 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+# ![Fish Percolator](assets/logo.svg)
 
+**Fish Percolator** is a software development house founded in 2015 and it's the commercial vehicle of [Quinn Daley](https://name.pn/quinn-daley) and associates.
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+Our mission is to **change the world in small ways through the application of technology**.
 
-## Usage
+There used to be a really fancy website here, but this one page with no bells & whistles better captures our ethos.
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+## About Quinn
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+## Products
 
-### Files
+## Services
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+## Contact details
 
-## Example tag usage
-
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+<dl>
+<dt>Email</dt><dd><a href="mailto:hello@fishpercolator.co.uk">hello@fishpercolator.co.uk</a></dd>
+<dt>Phone</dt><dd><a href="tel:+447963043979">07963 043979</a></dd>
+<dt>Post</dt><dd>Duke Studios, 3 Sheaf Street, Leeds LS10 1HD</dd>
+<dt>England & Wales company</dt><dd><a href="https://find-and-update.company-information.service.gov.uk/company/09617660">#09617660</a></dd>
+<dt>VAT number</dt><dd>GB 218804800</dd>
+<dt>ICO registration</dt><dd>ZB138365</dd>
+</dl>
